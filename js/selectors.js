@@ -2,6 +2,6 @@ function paragraphSelector() {
   return $('p')
 }
 
-function plastImageSelector() {
+function lastImageSelector() {
   return $('img:last')
 }
